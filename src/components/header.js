@@ -18,7 +18,6 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
-      <Link className="skip" to="#main">See them ALL!</Link>
     </div>
   </header>
 )

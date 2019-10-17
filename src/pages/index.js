@@ -11,7 +11,7 @@ const IndexPage = () => (
     <p>A site commited to displaying all the top fives of all types of 'thing' in the world!</p>
 
     <ul className="grid">
-      <Tile title="Hand Dryers" one="Dyson Airblade V" two="ATC" three="ABIS Beyond Future" four="Xcelerator" five="AIKE />
+      <Tile title="Hand Dryers" one="Dyson Airblade V" two="ATC" three="ABIS Beyond Future" four="Xcelerator" five="AIKE" />
       <Tile title="Crisp Flavours" one="Black Pepper & Sea Salt" two="Thai Sweet Chilli" three="Paprika" four="Salt & Vinegar" five="Lime & Black Pepper (New Zealand)" />
       <Tile title="Daniels" one="Danny Boyle" two="Dan Aykroyd" three="Danny McBride" four="Daniel Dumile" five="All Daniels that aren't Daniel Attoe" />
       <Tile title="Deserts" one="Banoffee Pie" two="Eton Mess" three="Ice Cream" four="Rice Pudding (with Jam)" five="Angel Delight" />
