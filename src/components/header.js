@@ -7,17 +7,7 @@ const Header = ({ siteTitle }) => (
   <header>
     <div>
       <Image/>
-      <h1>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
+      <h1>Top Fives</h1>
     </div>
   </header>
 )
