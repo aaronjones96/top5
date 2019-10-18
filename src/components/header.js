@@ -7,7 +7,7 @@ const Header = ({ siteTitle }) => (
   <header>
     <div>
       <Image/>
-      <h1>Top Fives</h1>
+      <h1>Top Five<a aria-hidden="true" tabindex="-1" href="https://cat-bounce.com/">s</a></h1>
     </div>
   </header>
 )
