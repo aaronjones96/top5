@@ -12,6 +12,8 @@ const IndexPage = () => (
 
     <ul className="grid">
 
+      <Tile title="Giant Animals" one="Blue Whale" two="Polar Bear" three="Elephant" four="Great White Shark" five="Hippo" />
+      <Tile title="Aarons" one="Aaron Jones" two="Tech N9ne" three="Aaron Paul" four="Aaron Bridgers" five="Aaron Eckhart" />
       <Tile title="Owls" one="Owl (from Winnie the Pooh)" two="Eurasian eagle owl" three="Spotted wood owl" four="Cloud-forest pygmy owl" five="Snowy Owl" />
       <Tile title="Modes of Transport" one="Train" two="Motorbike" three="Snowboard" four="Dog-driven Sledge" five="Penny-farthing" />
       <Tile title="Kardashians" one="They" two="are" three="all" four="absolutely" five="awful" />
