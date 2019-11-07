@@ -12,7 +12,9 @@ const IndexPage = () => (
 
     <ul className="grid">
 
-
+      <Tile title="Times of the Day" one="10:25am" two="12:45pm" three="5pm" four="9pm" five="11pm" />
+      <Tile title="Places to drink Special Brew" one="Wedding Ceremony" two="Forest Gate Highstreet" three="Playground Swing" four="Cinema" five="6:30am Southwestern train" />
+      <Tile title="Condiments" one="Hot Sauce" two="Red Sauce" three="Brown Sauce" four="Mustard" five="Pickle" />
       <Tile title="Films from 1987" one="Withnail & I" two="The Princess Bride" three="Planes, Trains & Automobiles" four="Full Metal Jacket" five="Yogi Bear and the Magical Flight of the Spruce Goose" />
       <Tile title="Cartoon Dogs" one="Scooby Doo" two="Muttly" three="Goofy" four="Clifford" five="Snoopy" />
       <Tile title="Home remedies for a cold" one="Soup" two="Bath" three="Lucozade" four="Sleep" five="Honey & Lemon" />
